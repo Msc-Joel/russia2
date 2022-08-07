@@ -120,6 +120,9 @@ hr {
     border: none;
 }
 
+ul.b {
+    list-style-type: square;
+  }
 
 q {
     quotes: "“" "”";
